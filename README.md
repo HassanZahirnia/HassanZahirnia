@@ -9,7 +9,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
 </p>
 <br>
-<p align="center">I'm currently for remote part-time (freelancing) job</b></p>
+<p align="center">I'm currently looking for a remote full/part-time (or freelancing) job</b></p>
 <br>
 <p align="center">You can reach me at <a href="mailto:m.hassan.zahirnia@gmail.com"><b>m.hassan.zahirnia@gmail.com</b></a></p>
 
