@@ -9,13 +9,14 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
 </p>
 
-[![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=HassanZahirnia&count_private=true&show_icons=true)](https://github.com/HassanZahirnia)
+[![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=HassanZahirnia&count_private=true&show_icons=true&hide=stars)](https://github.com/HassanZahirnia)
 
-[![Hassan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanZahirnia)](https://github.com/HassanZahirnia)
 
 <p>I'm currently looking for a remote full/part-time (or freelancing) job</b></p>
-<br>
-<p>You can reach me at <a href="mailto:m.hassan.zahirnia@gmail.com"><b>m.hassan.zahirnia@gmail.com</b></a></p>
+
+💰 If you're looking for a way to donate/support/pay me, you can visit <a href="https://github.com/HassanZahirnia/HassanZahirnia/blob/main/DONATION.MD">this page</a>
+
+<p>📧 You can reach me at <a href="mailto:m.hassan.zahirnia@gmail.com"><b>m.hassan.zahirnia@gmail.com</b></a></p>
 
 <h3>Connect with me:</h3>
 <p>
