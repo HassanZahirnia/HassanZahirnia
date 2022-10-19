@@ -1,5 +1,5 @@
 <h1>Hi 😄 I'm Hassan</h1>
-<h3>I'm a full stack web deveoper and I love to build apps using</h3>
+<h3>I'm a web designer & web developer and I love to build apps using these technologies:</h3>
 <p>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/> </a>
 <a href="https://hybridly.dev/" target="_blank" rel="noreferrer"> <img src="stack/hybridly.svg" alt="Hybridly" width="40" height="40"/> </a>
