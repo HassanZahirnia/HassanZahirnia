@@ -15,7 +15,7 @@
 
 <p>I'm currently looking for a remote full/part-time (or freelancing) job</b></p>
 
-💰 If you're looking for a way to donate/support/pay me, you can visit <a href="https://github.com/HassanZahirnia/HassanZahirnia/blob/main/DONATION.MD">this page</a>
+💰 If you're looking for a way to donate and support my work, you can contact me using the email address below.
 
 <p>📧 You can reach me at <a href="mailto:m.hassan.zahirnia@gmail.com"><b>m.hassan.zahirnia@gmail.com</b></a></p>
 
